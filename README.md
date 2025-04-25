@@ -56,7 +56,7 @@ Câu lệnh select truy vấn sinh viên trùng tháng và năm sinh với 2/200
 
 # Ảnh 10:  
 Câu lệnh select truy vấn sinh viên trùng tên với Đạt
-![10](https://github.com/user-attachments/assets/8475b519-5a96-4c1d-989a-ad9ca09d49d9)
+![10](https://github.com/user-attachments/assets/8475b519-5a96-4c1d-989a-ad9ca09d49d9)  
 
 # Ảnh 11:  
 Câu lệnh select truy vấn sinh viên trùng họ và tên đệm với Đặng Đình  
