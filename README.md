@@ -56,9 +56,27 @@ Câu lệnh select truy vấn sinh viên trùng tháng và năm sinh với 2/200
 
 # Ảnh 10:  
 Câu lệnh select truy vấn sinh viên trùng tên với Đạt
-![10](https://github.com/user-attachments/assets/becc13e5-ac74-416c-9dda-ef7162564f69)
+![10](https://github.com/user-attachments/assets/becc13e5-ac74-416c-9dda-ef7162564f69  
 
-# Ảnh
+# Ảnh 11:  
+Câu lệnh select truy vấn sinh viên trùng họ và tên đệm với Đặng Đình  
+![11](https://github.com/user-attachments/assets/56d16543-f08e-423b-a6c3-6b085592651a)  
+
+# Ảnh 12:  
+Câu lệnh select truy vấn sinh viên có số điện thoại sai khác đúng 1 chữ số so với 092124974  
+![12](https://github.com/user-attachments/assets/31ddbba0-566f-4c64-8822-a86c1eee0957)  
+
+# Ảnh 13:  
+Câu lệnh select truy vấn Liệt kê sinh viên ngành Kỹ thuật Máy tính, sắp xếp theo tên và họ đệm (tiếng Việt)  
+![13](https://github.com/user-attachments/assets/04749986-aa88-4f29-a607-ae7843c50767)  
+
+# Ảnh 14:  
+Câu lệnh select truy vấn liệt kê sinh viên NỮ ngành KMT (ước lượng theo tên nữ phổ biến không chính xác 100% vì không có cột giới tính)
+![14](https://github.com/user-attachments/assets/4543dbec-bb4a-46dd-b8f0-c320e6d2ecd1)
+
+# 
+
+
 
 
 
