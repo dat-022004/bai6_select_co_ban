@@ -1,4 +1,4 @@
-![10](https://github.com/user-attachments/assets/f7af8c25-b084-4258-a819-c0e103d5c586)# bai6_select_co_ban
+# bai6_select_co_ban
 bài tập 6: của sinh viên Đặng Đình Đạt K225480106003
 Bài tập 6: Hệ quản trị CSDL
 Chủ đề: Câu lệnh Select
