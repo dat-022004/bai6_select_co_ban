@@ -1,4 +1,4 @@
-# bai6_select_co_ban
+![10](https://github.com/user-attachments/assets/f7af8c25-b084-4258-a819-c0e103d5c586)# bai6_select_co_ban
 bài tập 6: của sinh viên Đặng Đình Đạt K225480106003
 Bài tập 6: Hệ quản trị CSDL
 Chủ đề: Câu lệnh Select
@@ -38,13 +38,12 @@ Bước 4: Chọn đúng database SV_TNUT ở dropdown trên SSMS.
 Bước 5: Nhấn nút Execute (F5) để chạy toàn bộ script.  
 ![5](https://github.com/user-attachments/assets/2a621475-502a-4a97-9460-966202e6a0ca)
 
-
 # Ảnh 6
 Bước 6: Kiểm tra xem dữ liệu và0 các bảng đã được tạo thành công chưa.  
 ![6](https://github.com/user-attachments/assets/880b8152-d00c-4521-9012-50c6fe80fe99)  
 
 # Ảnh 7:  
-Câu lệnh select truy vấn SV trùng toàn bộ ngày sinh  
+Câu lệnh select truy vấn sinh viên trùng ngày/tháng/năm sinh với 06/02/200   
 ![7](https://github.com/user-attachments/assets/581d1d4d-15cf-4508-8c0e-58091e7d68cf)  
 
 # Ảnh 8:  
@@ -52,6 +51,17 @@ Câu lệnh select truy vấn sinh viên trùng ngày và tháng sinh với 6/2
 ![8](https://github.com/user-attachments/assets/6fe6448d-870d-4603-90b2-c60310d0df9c)
 
 # Ảnh 9:  
+Câu lệnh select truy vấn sinh viên trùng tháng và năm sinh với 2/2004  
+![9](https://github.com/user-attachments/assets/d4450fea-87a5-42cd-b3d8-cf47aabde7f4)  
+
+# Ảnh 10:  
+Câu lệnh select truy vấn sinh viên trùng tên với Đạt
+![10](https://github.com/user-attachments/assets/becc13e5-ac74-416c-9dda-ef7162564f69)
+
+# Ảnh
+
+
+
 
 
 
